@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="editTemp">Enter a value</string>
+    <string name="radioButton_Cel">Celcius</string>
+    <string name="radioButton_Far">Fahrenheit</string>
+    <string name="calculatebutn">Calculate</string>
+</resources>
